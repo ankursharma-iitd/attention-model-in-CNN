@@ -1,0 +1,602 @@
+WARNING:tensorflow:Deprecation Warning: create_summary_file_writer was renamed to create_file_writer
+INFO:tensorflow:Sat Nov 17 17:29:32 2018: Epoch: 000 Step/Batch: 000000264 Step mean time: 0009ms 
+Loss: 2.9578578 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:29:35 2018: Epoch: 000 Step/Batch: 000000265 Step mean time: 0017ms 
+Loss: 2.9714661 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:29:40 2018: Elapsed time: 0011ms --- Loss: 3.0345540 Validation accuracy: 0.1000
+INFO:tensorflow:Sat Nov 17 17:29:44 2018: Epoch: 000 Step/Batch: 000000266 Step mean time: 0026ms 
+Loss: 3.0264244 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:29:47 2018: Epoch: 000 Step/Batch: 000000267 Step mean time: 0034ms 
+Loss: 3.0325303 Training accuracy: 0.0000
+INFO:tensorflow:Sat Nov 17 17:29:51 2018: Epoch: 000 Step/Batch: 000000268 Step mean time: 0042ms 
+Loss: 3.0236886 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:29:54 2018: Epoch: 000 Step/Batch: 000000269 Step mean time: 0050ms 
+Loss: 3.0128560 Training accuracy: 0.0625
+INFO:tensorflow:Sat Nov 17 17:29:58 2018: Epoch: 000 Step/Batch: 000000270 Step mean time: 0058ms 
+Loss: 2.9362640 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:30:03 2018: Elapsed time: 0034ms --- Loss: 2.9989908 Validation accuracy: 0.1200
+INFO:tensorflow:Sat Nov 17 17:30:03 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:30:07 2018: Epoch: 000 Step/Batch: 000000271 Step mean time: 0067ms 
+Loss: 3.0290551 Training accuracy: 0.0625
+INFO:tensorflow:Sat Nov 17 17:30:11 2018: Epoch: 000 Step/Batch: 000000272 Step mean time: 0076ms 
+Loss: 2.9921927 Training accuracy: 0.0000
+INFO:tensorflow:Sat Nov 17 17:30:16 2018: Epoch: 000 Step/Batch: 000000273 Step mean time: 0085ms 
+Loss: 2.9884593 Training accuracy: 0.0000
+INFO:tensorflow:Sat Nov 17 17:30:20 2018: Epoch: 000 Step/Batch: 000000274 Step mean time: 0093ms 
+Loss: 2.9729977 Training accuracy: 0.0625
+INFO:tensorflow:Sat Nov 17 17:30:24 2018: Epoch: 000 Step/Batch: 000000275 Step mean time: 0102ms 
+Loss: 2.9958973 Training accuracy: 0.0625
+INFO:tensorflow:Sat Nov 17 17:30:28 2018: Elapsed time: 0060ms --- Loss: 2.9694376 Validation accuracy: 0.1400
+INFO:tensorflow:Sat Nov 17 17:30:30 2018: Epoch: 000 Step/Batch: 000000276 Step mean time: 0106ms 
+Loss: 2.9766741 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:30:34 2018: Epoch: 001 Step/Batch: 000000277 Step mean time: 0114ms 
+Loss: 2.9296930 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:30:37 2018: Epoch: 001 Step/Batch: 000000278 Step mean time: 0121ms 
+Loss: 2.9424233 Training accuracy: 0.0625
+INFO:tensorflow:Sat Nov 17 17:30:41 2018: Epoch: 001 Step/Batch: 000000279 Step mean time: 0130ms 
+Loss: 2.9453425 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:30:45 2018: Epoch: 001 Step/Batch: 000000280 Step mean time: 0138ms 
+Loss: 2.9226370 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:30:50 2018: Elapsed time: 0081ms --- Loss: 2.9380436 Validation accuracy: 0.1400
+INFO:tensorflow:Sat Nov 17 17:30:50 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:30:54 2018: Epoch: 001 Step/Batch: 000000281 Step mean time: 0147ms 
+Loss: 2.9238801 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:30:58 2018: Epoch: 001 Step/Batch: 000000282 Step mean time: 0155ms 
+Loss: 2.9126644 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:31:02 2018: Epoch: 001 Step/Batch: 000000283 Step mean time: 0163ms 
+Loss: 2.8762164 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:31:05 2018: Epoch: 001 Step/Batch: 000000284 Step mean time: 0171ms 
+Loss: 2.8944013 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:31:09 2018: Epoch: 001 Step/Batch: 000000285 Step mean time: 0178ms 
+Loss: 2.9242365 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:31:13 2018: Elapsed time: 0105ms --- Loss: 2.8995256 Validation accuracy: 0.1800
+INFO:tensorflow:Sat Nov 17 17:31:17 2018: Epoch: 001 Step/Batch: 000000286 Step mean time: 0186ms 
+Loss: 2.8610697 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:31:21 2018: Epoch: 001 Step/Batch: 000000287 Step mean time: 0194ms 
+Loss: 2.8416533 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:31:24 2018: Epoch: 001 Step/Batch: 000000288 Step mean time: 0201ms 
+Loss: 2.8645132 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:31:26 2018: Epoch: 001 Step/Batch: 000000289 Step mean time: 0204ms 
+Loss: 2.8213289 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:31:30 2018: Epoch: 002 Step/Batch: 000000290 Step mean time: 0211ms 
+Loss: 2.7577567 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:31:34 2018: Elapsed time: 0125ms --- Loss: 2.8413241 Validation accuracy: 0.1800
+INFO:tensorflow:Sat Nov 17 17:31:34 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:31:38 2018: Epoch: 002 Step/Batch: 000000291 Step mean time: 0219ms 
+Loss: 2.8441823 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:31:42 2018: Epoch: 002 Step/Batch: 000000292 Step mean time: 0225ms 
+Loss: 2.8443847 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:31:45 2018: Epoch: 002 Step/Batch: 000000293 Step mean time: 0232ms 
+Loss: 2.8399105 Training accuracy: 0.0625
+INFO:tensorflow:Sat Nov 17 17:31:49 2018: Epoch: 002 Step/Batch: 000000294 Step mean time: 0239ms 
+Loss: 2.7663145 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:31:53 2018: Epoch: 002 Step/Batch: 000000295 Step mean time: 0246ms 
+Loss: 2.6158962 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:31:57 2018: Elapsed time: 0148ms --- Loss: 2.7814720 Validation accuracy: 0.1800
+INFO:tensorflow:Sat Nov 17 17:32:00 2018: Epoch: 002 Step/Batch: 000000296 Step mean time: 0253ms 
+Loss: 2.6966560 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:32:04 2018: Epoch: 002 Step/Batch: 000000297 Step mean time: 0260ms 
+Loss: 2.6853733 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:32:07 2018: Epoch: 002 Step/Batch: 000000298 Step mean time: 0266ms 
+Loss: 2.8449500 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:32:11 2018: Epoch: 002 Step/Batch: 000000299 Step mean time: 0274ms 
+Loss: 2.6507592 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:32:15 2018: Epoch: 002 Step/Batch: 000000300 Step mean time: 0281ms 
+Loss: 2.6165571 Training accuracy: 0.0625
+INFO:tensorflow:Sat Nov 17 17:32:20 2018: Elapsed time: 0171ms --- Loss: 2.7623353 Validation accuracy: 0.2000
+INFO:tensorflow:Sat Nov 17 17:32:20 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:32:23 2018: Epoch: 002 Step/Batch: 000000301 Step mean time: 0287ms 
+Loss: 2.6779404 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:32:25 2018: Epoch: 002 Step/Batch: 000000302 Step mean time: 0290ms 
+Loss: 2.5077195 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:32:29 2018: Epoch: 003 Step/Batch: 000000303 Step mean time: 0296ms 
+Loss: 2.6276460 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:32:32 2018: Epoch: 003 Step/Batch: 000000304 Step mean time: 0302ms 
+Loss: 2.8669579 Training accuracy: 0.0000
+INFO:tensorflow:Sat Nov 17 17:32:35 2018: Epoch: 003 Step/Batch: 000000305 Step mean time: 0309ms 
+Loss: 2.9152639 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:32:40 2018: Elapsed time: 0191ms --- Loss: 2.6804965 Validation accuracy: 0.1800
+INFO:tensorflow:Sat Nov 17 17:32:44 2018: Epoch: 003 Step/Batch: 000000306 Step mean time: 0315ms 
+Loss: 2.7148530 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:32:47 2018: Epoch: 003 Step/Batch: 000000307 Step mean time: 0321ms 
+Loss: 2.6828415 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:32:51 2018: Epoch: 003 Step/Batch: 000000308 Step mean time: 0328ms 
+Loss: 2.4408159 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:32:55 2018: Epoch: 003 Step/Batch: 000000309 Step mean time: 0334ms 
+Loss: 2.6122928 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:32:58 2018: Epoch: 003 Step/Batch: 000000310 Step mean time: 0341ms 
+Loss: 2.5439219 Training accuracy: 0.0625
+INFO:tensorflow:Sat Nov 17 17:33:03 2018: Elapsed time: 0214ms --- Loss: 2.6546810 Validation accuracy: 0.2000
+INFO:tensorflow:Sat Nov 17 17:33:03 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:33:07 2018: Epoch: 003 Step/Batch: 000000311 Step mean time: 0347ms 
+Loss: 2.7129176 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:33:10 2018: Epoch: 003 Step/Batch: 000000312 Step mean time: 0353ms 
+Loss: 2.5297198 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:33:14 2018: Epoch: 003 Step/Batch: 000000313 Step mean time: 0359ms 
+Loss: 2.5747843 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:33:18 2018: Epoch: 003 Step/Batch: 000000314 Step mean time: 0365ms 
+Loss: 2.5369654 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:33:21 2018: Epoch: 003 Step/Batch: 000000315 Step mean time: 0370ms 
+Loss: 2.3548789 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:33:29 2018: Elapsed time: 0240ms --- Loss: 2.6499925 Validation accuracy: 0.2000
+INFO:tensorflow:Sat Nov 17 17:33:36 2018: Epoch: 004 Step/Batch: 000000316 Step mean time: 0383ms 
+Loss: 2.4186814 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:33:43 2018: Epoch: 004 Step/Batch: 000000317 Step mean time: 0396ms 
+Loss: 2.7920713 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:33:49 2018: Epoch: 004 Step/Batch: 000000318 Step mean time: 0407ms 
+Loss: 2.7141304 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:33:56 2018: Epoch: 004 Step/Batch: 000000319 Step mean time: 0419ms 
+Loss: 2.6868217 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:34:02 2018: Epoch: 004 Step/Batch: 000000320 Step mean time: 0430ms 
+Loss: 2.5630054 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:34:10 2018: Elapsed time: 0281ms --- Loss: 2.6469245 Validation accuracy: 0.1800
+INFO:tensorflow:Sat Nov 17 17:34:10 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:34:16 2018: Epoch: 004 Step/Batch: 000000321 Step mean time: 0441ms 
+Loss: 2.4053469 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:34:22 2018: Epoch: 004 Step/Batch: 000000322 Step mean time: 0451ms 
+Loss: 2.5237501 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:34:29 2018: Epoch: 004 Step/Batch: 000000323 Step mean time: 0462ms 
+Loss: 2.4913321 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:34:35 2018: Epoch: 004 Step/Batch: 000000324 Step mean time: 0473ms 
+Loss: 2.6366758 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:34:42 2018: Epoch: 004 Step/Batch: 000000325 Step mean time: 0485ms 
+Loss: 2.3466115 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:34:50 2018: Elapsed time: 0322ms --- Loss: 2.5848265 Validation accuracy: 0.2400
+INFO:tensorflow:Sat Nov 17 17:34:57 2018: Epoch: 004 Step/Batch: 000000326 Step mean time: 0497ms 
+Loss: 2.5399094 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:35:03 2018: Epoch: 004 Step/Batch: 000000327 Step mean time: 0507ms 
+Loss: 2.5076582 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:35:07 2018: Epoch: 004 Step/Batch: 000000328 Step mean time: 0512ms 
+Loss: 2.2976871 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:35:13 2018: Epoch: 005 Step/Batch: 000000329 Step mean time: 0522ms 
+Loss: 2.4157829 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:35:19 2018: Epoch: 005 Step/Batch: 000000330 Step mean time: 0533ms 
+Loss: 2.6973414 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:35:26 2018: Elapsed time: 0358ms --- Loss: 2.5446813 Validation accuracy: 0.1800
+INFO:tensorflow:Sat Nov 17 17:35:27 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:35:33 2018: Epoch: 005 Step/Batch: 000000331 Step mean time: 0543ms 
+Loss: 2.6770947 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:35:39 2018: Epoch: 005 Step/Batch: 000000332 Step mean time: 0553ms 
+Loss: 2.5774529 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:35:45 2018: Epoch: 005 Step/Batch: 000000333 Step mean time: 0563ms 
+Loss: 2.5042975 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:35:52 2018: Epoch: 005 Step/Batch: 000000334 Step mean time: 0573ms 
+Loss: 2.3472142 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:35:58 2018: Epoch: 005 Step/Batch: 000000335 Step mean time: 0583ms 
+Loss: 2.5072675 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:36:05 2018: Elapsed time: 0397ms --- Loss: 2.6052792 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:36:12 2018: Epoch: 005 Step/Batch: 000000336 Step mean time: 0593ms 
+Loss: 2.3757958 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:36:18 2018: Epoch: 005 Step/Batch: 000000337 Step mean time: 0603ms 
+Loss: 2.5571392 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:36:25 2018: Epoch: 005 Step/Batch: 000000338 Step mean time: 0613ms 
+Loss: 2.3229876 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:36:31 2018: Epoch: 005 Step/Batch: 000000339 Step mean time: 0623ms 
+Loss: 2.4901533 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:36:37 2018: Epoch: 005 Step/Batch: 000000340 Step mean time: 0633ms 
+Loss: 2.4177613 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:36:45 2018: Elapsed time: 0436ms --- Loss: 2.5229688 Validation accuracy: 0.2600
+INFO:tensorflow:Sat Nov 17 17:36:45 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:36:48 2018: Epoch: 005 Step/Batch: 000000341 Step mean time: 0637ms 
+Loss: 2.1204116 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:36:54 2018: Epoch: 006 Step/Batch: 000000342 Step mean time: 0646ms 
+Loss: 2.1935117 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:37:01 2018: Epoch: 006 Step/Batch: 000000343 Step mean time: 0656ms 
+Loss: 2.7451868 Training accuracy: 0.0625
+INFO:tensorflow:Sat Nov 17 17:37:07 2018: Epoch: 006 Step/Batch: 000000344 Step mean time: 0666ms 
+Loss: 2.5695052 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:37:13 2018: Epoch: 006 Step/Batch: 000000345 Step mean time: 0675ms 
+Loss: 2.4611769 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:37:21 2018: Elapsed time: 0472ms --- Loss: 2.4861131 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:37:27 2018: Epoch: 006 Step/Batch: 000000346 Step mean time: 0685ms 
+Loss: 2.4034655 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:37:33 2018: Epoch: 006 Step/Batch: 000000347 Step mean time: 0694ms 
+Loss: 2.3277442 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:37:40 2018: Epoch: 006 Step/Batch: 000000348 Step mean time: 0703ms 
+Loss: 2.3338919 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:37:46 2018: Epoch: 006 Step/Batch: 000000349 Step mean time: 0713ms 
+Loss: 2.3133433 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:37:52 2018: Epoch: 006 Step/Batch: 000000350 Step mean time: 0722ms 
+Loss: 2.4499967 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:38:00 2018: Elapsed time: 0511ms --- Loss: 2.5475347 Validation accuracy: 0.2000
+INFO:tensorflow:Sat Nov 17 17:38:00 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:38:06 2018: Epoch: 006 Step/Batch: 000000351 Step mean time: 0731ms 
+Loss: 2.3077407 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:38:13 2018: Epoch: 006 Step/Batch: 000000352 Step mean time: 0740ms 
+Loss: 2.4853249 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:38:19 2018: Epoch: 006 Step/Batch: 000000353 Step mean time: 0749ms 
+Loss: 2.2873392 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:38:22 2018: Epoch: 006 Step/Batch: 000000354 Step mean time: 0753ms 
+Loss: 2.1216450 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:38:28 2018: Epoch: 007 Step/Batch: 000000355 Step mean time: 0762ms 
+Loss: 2.0867314 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:38:36 2018: Elapsed time: 0547ms --- Loss: 2.5220442 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:38:42 2018: Epoch: 007 Step/Batch: 000000356 Step mean time: 0771ms 
+Loss: 2.6850493 Training accuracy: 0.0625
+INFO:tensorflow:Sat Nov 17 17:38:49 2018: Epoch: 007 Step/Batch: 000000357 Step mean time: 0780ms 
+Loss: 2.4389462 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:38:55 2018: Epoch: 007 Step/Batch: 000000358 Step mean time: 0789ms 
+Loss: 2.5100830 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:39:01 2018: Epoch: 007 Step/Batch: 000000359 Step mean time: 0798ms 
+Loss: 2.3381741 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:39:07 2018: Epoch: 007 Step/Batch: 000000360 Step mean time: 0806ms 
+Loss: 2.3064761 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:39:15 2018: Elapsed time: 0586ms --- Loss: 2.5256476 Validation accuracy: 0.2000
+INFO:tensorflow:Sat Nov 17 17:39:15 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:39:21 2018: Epoch: 007 Step/Batch: 000000361 Step mean time: 0815ms 
+Loss: 2.3611186 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:39:27 2018: Epoch: 007 Step/Batch: 000000362 Step mean time: 0824ms 
+Loss: 2.1531055 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:39:34 2018: Epoch: 007 Step/Batch: 000000363 Step mean time: 0832ms 
+Loss: 2.4308319 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:39:40 2018: Epoch: 007 Step/Batch: 000000364 Step mean time: 0841ms 
+Loss: 2.1797256 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:39:46 2018: Epoch: 007 Step/Batch: 000000365 Step mean time: 0850ms 
+Loss: 2.4753368 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:39:54 2018: Elapsed time: 0625ms --- Loss: 2.4864161 Validation accuracy: 0.2600
+INFO:tensorflow:Sat Nov 17 17:40:00 2018: Epoch: 007 Step/Batch: 000000366 Step mean time: 0858ms 
+Loss: 2.1232684 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:40:03 2018: Epoch: 007 Step/Batch: 000000367 Step mean time: 0861ms 
+Loss: 1.9698836 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:40:10 2018: Epoch: 008 Step/Batch: 000000368 Step mean time: 0870ms 
+Loss: 1.8786148 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:40:16 2018: Epoch: 008 Step/Batch: 000000369 Step mean time: 0878ms 
+Loss: 2.6544399 Training accuracy: 0.1250
+INFO:tensorflow:Sat Nov 17 17:40:22 2018: Epoch: 008 Step/Batch: 000000370 Step mean time: 0887ms 
+Loss: 2.2756200 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:40:30 2018: Elapsed time: 0661ms --- Loss: 2.4679375 Validation accuracy: 0.2600
+INFO:tensorflow:Sat Nov 17 17:40:30 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:40:36 2018: Epoch: 008 Step/Batch: 000000371 Step mean time: 0895ms 
+Loss: 2.2768388 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:40:43 2018: Epoch: 008 Step/Batch: 000000372 Step mean time: 0904ms 
+Loss: 2.1823676 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:40:49 2018: Epoch: 008 Step/Batch: 000000373 Step mean time: 0912ms 
+Loss: 2.2356873 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:40:56 2018: Epoch: 008 Step/Batch: 000000374 Step mean time: 0920ms 
+Loss: 2.0812607 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:41:02 2018: Epoch: 008 Step/Batch: 000000375 Step mean time: 0928ms 
+Loss: 2.0157809 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:41:10 2018: Elapsed time: 0701ms --- Loss: 2.4989769 Validation accuracy: 0.2800
+INFO:tensorflow:Sat Nov 17 17:41:16 2018: Epoch: 008 Step/Batch: 000000376 Step mean time: 0936ms 
+Loss: 2.2500298 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:41:23 2018: Epoch: 008 Step/Batch: 000000377 Step mean time: 0945ms 
+Loss: 2.0524828 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:41:29 2018: Epoch: 008 Step/Batch: 000000378 Step mean time: 0953ms 
+Loss: 2.3094313 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:41:35 2018: Epoch: 008 Step/Batch: 000000379 Step mean time: 0961ms 
+Loss: 2.0999734 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:41:39 2018: Epoch: 008 Step/Batch: 000000380 Step mean time: 0964ms 
+Loss: 1.7961471 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:41:46 2018: Elapsed time: 0738ms --- Loss: 2.5009778 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:41:47 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:41:53 2018: Epoch: 009 Step/Batch: 000000381 Step mean time: 0972ms 
+Loss: 1.6797128 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:41:59 2018: Epoch: 009 Step/Batch: 000000382 Step mean time: 0980ms 
+Loss: 2.5284932 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:42:06 2018: Epoch: 009 Step/Batch: 000000383 Step mean time: 0988ms 
+Loss: 2.0309403 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:42:12 2018: Epoch: 009 Step/Batch: 000000384 Step mean time: 0995ms 
+Loss: 2.1080687 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:42:18 2018: Epoch: 009 Step/Batch: 000000385 Step mean time: 1003ms 
+Loss: 2.0322497 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:42:26 2018: Elapsed time: 0777ms --- Loss: 2.5115960 Validation accuracy: 0.2400
+INFO:tensorflow:Sat Nov 17 17:42:33 2018: Epoch: 009 Step/Batch: 000000386 Step mean time: 1011ms 
+Loss: 2.1118655 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:42:39 2018: Epoch: 009 Step/Batch: 000000387 Step mean time: 1019ms 
+Loss: 2.0127916 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:42:45 2018: Epoch: 009 Step/Batch: 000000388 Step mean time: 1027ms 
+Loss: 1.8711812 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:42:52 2018: Epoch: 009 Step/Batch: 000000389 Step mean time: 1034ms 
+Loss: 2.2853105 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:42:58 2018: Epoch: 009 Step/Batch: 000000390 Step mean time: 1042ms 
+Loss: 1.9031820 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:43:06 2018: Elapsed time: 0817ms --- Loss: 2.5232317 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:43:06 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:43:13 2018: Epoch: 009 Step/Batch: 000000391 Step mean time: 1050ms 
+Loss: 2.1187828 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:43:19 2018: Epoch: 009 Step/Batch: 000000392 Step mean time: 1057ms 
+Loss: 2.0925322 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:43:22 2018: Epoch: 009 Step/Batch: 000000393 Step mean time: 1060ms 
+Loss: 1.7184772 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:43:29 2018: Epoch: 010 Step/Batch: 000000394 Step mean time: 1067ms 
+Loss: 1.5663458 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:43:35 2018: Epoch: 010 Step/Batch: 000000395 Step mean time: 1075ms 
+Loss: 2.4748635 Training accuracy: 0.1875
+INFO:tensorflow:Sat Nov 17 17:43:43 2018: Elapsed time: 0854ms --- Loss: 2.6095588 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:43:49 2018: Epoch: 010 Step/Batch: 000000396 Step mean time: 1082ms 
+Loss: 1.9627789 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:43:56 2018: Epoch: 010 Step/Batch: 000000397 Step mean time: 1090ms 
+Loss: 2.0484979 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:44:02 2018: Epoch: 010 Step/Batch: 000000398 Step mean time: 1097ms 
+Loss: 1.8650510 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:44:09 2018: Epoch: 010 Step/Batch: 000000399 Step mean time: 1105ms 
+Loss: 2.0237501 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:44:15 2018: Epoch: 010 Step/Batch: 000000400 Step mean time: 1112ms 
+Loss: 1.8946973 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:44:23 2018: Elapsed time: 0894ms --- Loss: 2.5499396 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:44:23 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:44:30 2018: Epoch: 010 Step/Batch: 000000401 Step mean time: 1120ms 
+Loss: 1.8076618 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:44:36 2018: Epoch: 010 Step/Batch: 000000402 Step mean time: 1127ms 
+Loss: 2.2192280 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:44:43 2018: Epoch: 010 Step/Batch: 000000403 Step mean time: 1134ms 
+Loss: 1.9632869 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:44:49 2018: Epoch: 010 Step/Batch: 000000404 Step mean time: 1141ms 
+Loss: 2.0237527 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:44:56 2018: Epoch: 010 Step/Batch: 000000405 Step mean time: 1149ms 
+Loss: 1.8961263 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:45:03 2018: Elapsed time: 0935ms --- Loss: 2.5362823 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:45:07 2018: Epoch: 010 Step/Batch: 000000406 Step mean time: 1151ms 
+Loss: 1.6501744 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:45:13 2018: Epoch: 011 Step/Batch: 000000407 Step mean time: 1159ms 
+Loss: 1.4455693 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:45:20 2018: Epoch: 011 Step/Batch: 000000408 Step mean time: 1166ms 
+Loss: 2.3698962 Training accuracy: 0.3125
+INFO:tensorflow:Sat Nov 17 17:45:26 2018: Epoch: 011 Step/Batch: 000000409 Step mean time: 1173ms 
+Loss: 1.8928752 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:45:32 2018: Epoch: 011 Step/Batch: 000000410 Step mean time: 1180ms 
+Loss: 2.1772759 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:45:40 2018: Elapsed time: 0971ms --- Loss: 2.5883524 Validation accuracy: 0.2400
+INFO:tensorflow:Sat Nov 17 17:45:40 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:45:47 2018: Epoch: 011 Step/Batch: 000000411 Step mean time: 1187ms 
+Loss: 1.7418439 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:45:53 2018: Epoch: 011 Step/Batch: 000000412 Step mean time: 1194ms 
+Loss: 2.0045776 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:46:00 2018: Epoch: 011 Step/Batch: 000000413 Step mean time: 1201ms 
+Loss: 1.8939327 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:46:06 2018: Epoch: 011 Step/Batch: 000000414 Step mean time: 1208ms 
+Loss: 1.7452881 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:46:13 2018: Epoch: 011 Step/Batch: 000000415 Step mean time: 1214ms 
+Loss: 2.1085095 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:46:21 2018: Elapsed time: 1012ms --- Loss: 2.5590947 Validation accuracy: 0.1800
+INFO:tensorflow:Sat Nov 17 17:46:28 2018: Epoch: 011 Step/Batch: 000000416 Step mean time: 1222ms 
+Loss: 1.8455660 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:46:34 2018: Epoch: 011 Step/Batch: 000000417 Step mean time: 1229ms 
+Loss: 1.9683175 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:46:41 2018: Epoch: 011 Step/Batch: 000000418 Step mean time: 1235ms 
+Loss: 1.7636058 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:46:44 2018: Epoch: 011 Step/Batch: 000000419 Step mean time: 1237ms 
+Loss: 1.5121647 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:46:51 2018: Epoch: 012 Step/Batch: 000000420 Step mean time: 1244ms 
+Loss: 1.4230702 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:46:58 2018: Elapsed time: 1050ms --- Loss: 2.5508306 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:46:59 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:47:05 2018: Epoch: 012 Step/Batch: 000000421 Step mean time: 1251ms 
+Loss: 2.0973263 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:47:12 2018: Epoch: 012 Step/Batch: 000000422 Step mean time: 1258ms 
+Loss: 1.7588658 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:47:18 2018: Epoch: 012 Step/Batch: 000000423 Step mean time: 1264ms 
+Loss: 1.7864354 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:47:25 2018: Epoch: 012 Step/Batch: 000000424 Step mean time: 1271ms 
+Loss: 1.7500203 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:47:31 2018: Epoch: 012 Step/Batch: 000000425 Step mean time: 1277ms 
+Loss: 2.0212588 Training accuracy: 0.2500
+INFO:tensorflow:Sat Nov 17 17:47:39 2018: Elapsed time: 1090ms --- Loss: 2.7455311 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:47:46 2018: Epoch: 012 Step/Batch: 000000426 Step mean time: 1284ms 
+Loss: 1.8725539 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:47:52 2018: Epoch: 012 Step/Batch: 000000427 Step mean time: 1290ms 
+Loss: 1.5771891 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:47:59 2018: Epoch: 012 Step/Batch: 000000428 Step mean time: 1297ms 
+Loss: 1.6273465 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:48:05 2018: Epoch: 012 Step/Batch: 000000429 Step mean time: 1303ms 
+Loss: 1.5969899 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:48:11 2018: Epoch: 012 Step/Batch: 000000430 Step mean time: 1309ms 
+Loss: 1.5799954 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:48:20 2018: Elapsed time: 1131ms --- Loss: 2.5956905 Validation accuracy: 0.2600
+INFO:tensorflow:Sat Nov 17 17:48:20 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:48:27 2018: Epoch: 012 Step/Batch: 000000431 Step mean time: 1316ms 
+Loss: 1.7296956 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:48:30 2018: Epoch: 012 Step/Batch: 000000432 Step mean time: 1318ms 
+Loss: 1.4058534 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:48:37 2018: Epoch: 013 Step/Batch: 000000433 Step mean time: 1324ms 
+Loss: 1.3811847 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:48:43 2018: Epoch: 013 Step/Batch: 000000434 Step mean time: 1331ms 
+Loss: 1.9570571 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:48:50 2018: Epoch: 013 Step/Batch: 000000435 Step mean time: 1337ms 
+Loss: 1.5461929 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:48:58 2018: Elapsed time: 1169ms --- Loss: 2.5541356 Validation accuracy: 0.2400
+INFO:tensorflow:Sat Nov 17 17:49:04 2018: Epoch: 013 Step/Batch: 000000436 Step mean time: 1343ms 
+Loss: 1.4918128 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:49:10 2018: Epoch: 013 Step/Batch: 000000437 Step mean time: 1350ms 
+Loss: 1.6881465 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:49:17 2018: Epoch: 013 Step/Batch: 000000438 Step mean time: 1356ms 
+Loss: 1.8000258 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:49:23 2018: Epoch: 013 Step/Batch: 000000439 Step mean time: 1362ms 
+Loss: 1.8284402 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:49:30 2018: Epoch: 013 Step/Batch: 000000440 Step mean time: 1368ms 
+Loss: 1.4899197 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:49:38 2018: Elapsed time: 1209ms --- Loss: 2.7806408 Validation accuracy: 0.2000
+INFO:tensorflow:Sat Nov 17 17:49:38 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:49:44 2018: Epoch: 013 Step/Batch: 000000441 Step mean time: 1374ms 
+Loss: 1.4519488 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:49:51 2018: Epoch: 013 Step/Batch: 000000442 Step mean time: 1380ms 
+Loss: 1.4163737 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 17:49:57 2018: Epoch: 013 Step/Batch: 000000443 Step mean time: 1386ms 
+Loss: 1.3850734 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:50:04 2018: Epoch: 013 Step/Batch: 000000444 Step mean time: 1392ms 
+Loss: 1.7888559 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:50:07 2018: Epoch: 013 Step/Batch: 000000445 Step mean time: 1394ms 
+Loss: 1.3047979 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:50:15 2018: Elapsed time: 1246ms --- Loss: 2.6957464 Validation accuracy: 0.2400
+INFO:tensorflow:Sat Nov 17 17:50:22 2018: Epoch: 014 Step/Batch: 000000446 Step mean time: 1400ms 
+Loss: 1.3471386 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:50:28 2018: Epoch: 014 Step/Batch: 000000447 Step mean time: 1406ms 
+Loss: 1.9026973 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:50:35 2018: Epoch: 014 Step/Batch: 000000448 Step mean time: 1412ms 
+Loss: 1.3533719 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 17:50:41 2018: Epoch: 014 Step/Batch: 000000449 Step mean time: 1418ms 
+Loss: 1.4332540 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:50:47 2018: Epoch: 014 Step/Batch: 000000450 Step mean time: 1424ms 
+Loss: 1.6628504 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:50:56 2018: Elapsed time: 1287ms --- Loss: 2.9056995 Validation accuracy: 0.1600
+INFO:tensorflow:Sat Nov 17 17:50:56 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:51:02 2018: Epoch: 014 Step/Batch: 000000451 Step mean time: 1429ms 
+Loss: 1.6956496 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:51:09 2018: Epoch: 014 Step/Batch: 000000452 Step mean time: 1435ms 
+Loss: 1.6322334 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:51:15 2018: Epoch: 014 Step/Batch: 000000453 Step mean time: 1441ms 
+Loss: 1.4122382 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:51:22 2018: Epoch: 014 Step/Batch: 000000454 Step mean time: 1447ms 
+Loss: 1.6201105 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:51:28 2018: Epoch: 014 Step/Batch: 000000455 Step mean time: 1452ms 
+Loss: 1.3123758 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:51:36 2018: Elapsed time: 1328ms --- Loss: 2.8727727 Validation accuracy: 0.2400
+INFO:tensorflow:Sat Nov 17 17:51:43 2018: Epoch: 014 Step/Batch: 000000456 Step mean time: 1458ms 
+Loss: 1.1899903 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:51:49 2018: Epoch: 014 Step/Batch: 000000457 Step mean time: 1464ms 
+Loss: 1.5438821 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:51:53 2018: Epoch: 014 Step/Batch: 000000458 Step mean time: 1465ms 
+Loss: 1.1871808 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:51:59 2018: Epoch: 015 Step/Batch: 000000459 Step mean time: 1471ms 
+Loss: 1.0859573 Training accuracy: 0.8750
+INFO:tensorflow:Sat Nov 17 17:52:06 2018: Epoch: 015 Step/Batch: 000000460 Step mean time: 1476ms 
+Loss: 1.9140555 Training accuracy: 0.4375
+INFO:tensorflow:Sat Nov 17 17:52:14 2018: Elapsed time: 1365ms --- Loss: 2.8060286 Validation accuracy: 0.2600
+INFO:tensorflow:Sat Nov 17 17:52:14 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:52:21 2018: Epoch: 015 Step/Batch: 000000461 Step mean time: 1482ms 
+Loss: 1.2559865 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 17:52:27 2018: Epoch: 015 Step/Batch: 000000462 Step mean time: 1488ms 
+Loss: 1.2443855 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:52:34 2018: Epoch: 015 Step/Batch: 000000463 Step mean time: 1493ms 
+Loss: 1.5003648 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:52:40 2018: Epoch: 015 Step/Batch: 000000464 Step mean time: 1498ms 
+Loss: 1.5982157 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:52:46 2018: Epoch: 015 Step/Batch: 000000465 Step mean time: 1504ms 
+Loss: 1.7760367 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:52:55 2018: Elapsed time: 1406ms --- Loss: 3.1633389 Validation accuracy: 0.2400
+INFO:tensorflow:Sat Nov 17 17:53:01 2018: Epoch: 015 Step/Batch: 000000466 Step mean time: 1509ms 
+Loss: 1.4427447 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:53:07 2018: Epoch: 015 Step/Batch: 000000467 Step mean time: 1515ms 
+Loss: 1.3951254 Training accuracy: 0.5000
+INFO:tensorflow:Sat Nov 17 17:53:14 2018: Epoch: 015 Step/Batch: 000000468 Step mean time: 1520ms 
+Loss: 1.3909528 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:53:20 2018: Epoch: 015 Step/Batch: 000000469 Step mean time: 1526ms 
+Loss: 1.1480134 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:53:27 2018: Epoch: 015 Step/Batch: 000000470 Step mean time: 1531ms 
+Loss: 1.5192850 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:53:35 2018: Elapsed time: 1446ms --- Loss: 3.0030842 Validation accuracy: 0.3200
+INFO:tensorflow:Sat Nov 17 17:53:35 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:53:38 2018: Epoch: 015 Step/Batch: 000000471 Step mean time: 1532ms 
+Loss: 1.1000032 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:53:45 2018: Epoch: 016 Step/Batch: 000000472 Step mean time: 1538ms 
+Loss: 1.0192666 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 17:53:51 2018: Epoch: 016 Step/Batch: 000000473 Step mean time: 1543ms 
+Loss: 1.7416534 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:53:58 2018: Epoch: 016 Step/Batch: 000000474 Step mean time: 1548ms 
+Loss: 1.1020782 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:54:05 2018: Epoch: 016 Step/Batch: 000000475 Step mean time: 1554ms 
+Loss: 1.4781992 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:54:13 2018: Elapsed time: 1484ms --- Loss: 2.9695880 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:54:19 2018: Epoch: 016 Step/Batch: 000000476 Step mean time: 1559ms 
+Loss: 1.4294424 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:54:26 2018: Epoch: 016 Step/Batch: 000000477 Step mean time: 1564ms 
+Loss: 1.6094806 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:54:32 2018: Epoch: 016 Step/Batch: 000000478 Step mean time: 1569ms 
+Loss: 1.6035728 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:54:39 2018: Epoch: 016 Step/Batch: 000000479 Step mean time: 1575ms 
+Loss: 1.5836036 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:54:45 2018: Epoch: 016 Step/Batch: 000000480 Step mean time: 1580ms 
+Loss: 1.1902920 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:54:53 2018: Elapsed time: 1524ms --- Loss: 3.2162125 Validation accuracy: 0.2400
+INFO:tensorflow:Sat Nov 17 17:54:53 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:55:00 2018: Epoch: 016 Step/Batch: 000000481 Step mean time: 1585ms 
+Loss: 1.3687720 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:55:06 2018: Epoch: 016 Step/Batch: 000000482 Step mean time: 1590ms 
+Loss: 1.0606551 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:55:13 2018: Epoch: 016 Step/Batch: 000000483 Step mean time: 1595ms 
+Loss: 1.2275224 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:55:16 2018: Epoch: 016 Step/Batch: 000000484 Step mean time: 1596ms 
+Loss: 1.1790571 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:55:23 2018: Epoch: 017 Step/Batch: 000000485 Step mean time: 1602ms 
+Loss: 1.1613531 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:55:31 2018: Elapsed time: 1562ms --- Loss: 2.9576542 Validation accuracy: 0.2800
+INFO:tensorflow:Sat Nov 17 17:55:37 2018: Epoch: 017 Step/Batch: 000000486 Step mean time: 1607ms 
+Loss: 1.6716866 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:55:44 2018: Epoch: 017 Step/Batch: 000000487 Step mean time: 1612ms 
+Loss: 1.3993950 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:55:51 2018: Epoch: 017 Step/Batch: 000000488 Step mean time: 1617ms 
+Loss: 1.1733925 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:55:57 2018: Epoch: 017 Step/Batch: 000000489 Step mean time: 1622ms 
+Loss: 1.8975658 Training accuracy: 0.3750
+INFO:tensorflow:Sat Nov 17 17:56:04 2018: Epoch: 017 Step/Batch: 000000490 Step mean time: 1628ms 
+Loss: 1.4157851 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 17:56:11 2018: Elapsed time: 1603ms --- Loss: 3.0731118 Validation accuracy: 0.2600
+INFO:tensorflow:Sat Nov 17 17:56:12 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:56:18 2018: Epoch: 017 Step/Batch: 000000491 Step mean time: 1633ms 
+Loss: 1.7254865 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:56:25 2018: Epoch: 017 Step/Batch: 000000492 Step mean time: 1638ms 
+Loss: 1.4040986 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:56:31 2018: Epoch: 017 Step/Batch: 000000493 Step mean time: 1643ms 
+Loss: 1.3528574 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:56:38 2018: Epoch: 017 Step/Batch: 000000494 Step mean time: 1648ms 
+Loss: 1.4001609 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:56:45 2018: Epoch: 017 Step/Batch: 000000495 Step mean time: 1653ms 
+Loss: 1.2665219 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 17:56:52 2018: Elapsed time: 1644ms --- Loss: 2.8566837 Validation accuracy: 0.2200
+INFO:tensorflow:Sat Nov 17 17:56:59 2018: Epoch: 017 Step/Batch: 000000496 Step mean time: 1658ms 
+Loss: 1.3735647 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:57:02 2018: Epoch: 017 Step/Batch: 000000497 Step mean time: 1659ms 
+Loss: 1.1743965 Training accuracy: 0.8750
+INFO:tensorflow:Sat Nov 17 17:57:09 2018: Epoch: 018 Step/Batch: 000000498 Step mean time: 1664ms 
+Loss: 1.1317368 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:57:16 2018: Epoch: 018 Step/Batch: 000000499 Step mean time: 1669ms 
+Loss: 1.4395429 Training accuracy: 0.5625
+INFO:tensorflow:Sat Nov 17 17:57:22 2018: Epoch: 018 Step/Batch: 000000500 Step mean time: 1674ms 
+Loss: 1.1568091 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:57:30 2018: Elapsed time: 1681ms --- Loss: 3.1403675 Validation accuracy: 0.2800
+INFO:tensorflow:Sat Nov 17 17:57:30 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:57:37 2018: Epoch: 018 Step/Batch: 000000501 Step mean time: 1678ms 
+Loss: 1.1279945 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:57:43 2018: Epoch: 018 Step/Batch: 000000502 Step mean time: 1683ms 
+Loss: 1.4010316 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:57:50 2018: Epoch: 018 Step/Batch: 000000503 Step mean time: 1688ms 
+Loss: 1.3848543 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:57:57 2018: Epoch: 018 Step/Batch: 000000504 Step mean time: 1692ms 
+Loss: 1.3775980 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:58:03 2018: Epoch: 018 Step/Batch: 000000505 Step mean time: 1697ms 
+Loss: 1.2273133 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 17:58:11 2018: Elapsed time: 1722ms --- Loss: 2.8873971 Validation accuracy: 0.2600
+INFO:tensorflow:Sat Nov 17 17:58:18 2018: Epoch: 018 Step/Batch: 000000506 Step mean time: 1702ms 
+Loss: 0.9939666 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 17:58:24 2018: Epoch: 018 Step/Batch: 000000507 Step mean time: 1707ms 
+Loss: 1.2482170 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:58:31 2018: Epoch: 018 Step/Batch: 000000508 Step mean time: 1711ms 
+Loss: 1.0102884 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:58:37 2018: Epoch: 018 Step/Batch: 000000509 Step mean time: 1716ms 
+Loss: 1.0598078 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:58:41 2018: Epoch: 018 Step/Batch: 000000510 Step mean time: 1717ms 
+Loss: 1.1495948 Training accuracy: 0.8750
+INFO:tensorflow:Sat Nov 17 17:58:48 2018: Elapsed time: 1760ms --- Loss: 3.0418196 Validation accuracy: 0.2000
+INFO:tensorflow:Sat Nov 17 17:58:49 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 17:58:55 2018: Epoch: 019 Step/Batch: 000000511 Step mean time: 1721ms 
+Loss: 1.0224040 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 17:59:02 2018: Epoch: 019 Step/Batch: 000000512 Step mean time: 1726ms 
+Loss: 1.5350435 Training accuracy: 0.6250
+INFO:tensorflow:Sat Nov 17 17:59:08 2018: Epoch: 019 Step/Batch: 000000513 Step mean time: 1730ms 
+Loss: 0.9914352 Training accuracy: 0.8750
+INFO:tensorflow:Sat Nov 17 17:59:15 2018: Epoch: 019 Step/Batch: 000000514 Step mean time: 1735ms 
+Loss: 1.0755136 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:59:21 2018: Epoch: 019 Step/Batch: 000000515 Step mean time: 1739ms 
+Loss: 1.3999254 Training accuracy: 0.6875
+INFO:tensorflow:Sat Nov 17 17:59:29 2018: Elapsed time: 1801ms --- Loss: 3.3646834 Validation accuracy: 0.2000
+INFO:tensorflow:Sat Nov 17 17:59:36 2018: Epoch: 019 Step/Batch: 000000516 Step mean time: 1744ms 
+Loss: 1.2609651 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:59:42 2018: Epoch: 019 Step/Batch: 000000517 Step mean time: 1748ms 
+Loss: 1.2290311 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 17:59:49 2018: Epoch: 019 Step/Batch: 000000518 Step mean time: 1753ms 
+Loss: 1.2044718 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 17:59:56 2018: Epoch: 019 Step/Batch: 000000519 Step mean time: 1757ms 
+Loss: 1.4125874 Training accuracy: 0.7500
+INFO:tensorflow:Sat Nov 17 18:00:02 2018: Epoch: 019 Step/Batch: 000000520 Step mean time: 1762ms 
+Loss: 0.9161375 Training accuracy: 0.8125
+INFO:tensorflow:Sat Nov 17 18:00:10 2018: Elapsed time: 1841ms --- Loss: 3.3268075 Validation accuracy: 0.2000
+INFO:tensorflow:Sat Nov 17 18:00:10 2018: Variables saved
+INFO:tensorflow:Sat Nov 17 18:00:17 2018: Epoch: 019 Step/Batch: 000000521 Step mean time: 1767ms 
+Loss: 0.9232507 Training accuracy: 0.9375
+INFO:tensorflow:Sat Nov 17 18:00:23 2018: Epoch: 019 Step/Batch: 000000522 Step mean time: 1771ms 
+Loss: 0.9208608 Training accuracy: 0.8750
+INFO:tensorflow:Sat Nov 17 18:00:27 2018: Epoch: 019 Step/Batch: 000000523 Step mean time: 1772ms 
+Loss: 0.8697618 Training accuracy: 1.0000
+
+INFO:tensorflow:Sat Nov 17 18:00:44 2018: Final Test Loss: s Test accuracy: 0.4700
+
