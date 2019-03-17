@@ -1,9 +1,5 @@
 # attention-model-in-CNN
 
-In this project, I implemented the multi-headed attention mechanisms for image classification task on AlexNet using TensorFlow 1.9
+Repository contains a Tensorflow implementation for our [paper](https://arxiv.org/pdf/1804.02391.pdf).  If you find this code useful in your research, please consider citing:
 
-The main idea behind the implemention follows the following paper:
-LEARN TO PAY ATTENTION
-Saumya Jetley, Nicholas A. Lord, Namhoon Lee & Philip H. S. Torr
-Department of Engineering Science, University of Oxford
-{sjetley,nicklord,namhoon,phst}@robots.ox.ac.uk
+This code was tested on an Ubuntu 16.04 system using Tensorflow 1.9.
